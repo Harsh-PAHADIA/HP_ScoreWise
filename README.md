@@ -1,4 +1,4 @@
-# HP_ScoreWise 🎓
+# HP_ScoreWise
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -9,15 +9,15 @@
 
 ---
 
-## ✨ Features
+## Features
 
-### 👨‍🏫 For Teachers
+### For Teachers
 - **Easy Assessment Creation**: Build comprehensive assessments with various question types.
 - **Marking Schemes**: Define clear evaluation criteria and correct answers.
 - **Automated Feedback**: Reduce manual grading time with system-assisted evaluation.
 - **Student Management**: Monitor submissions and results in a centralized dashboard.
 
-### 🎓 For Students
+### For Students
 - **Intuitive Interface**: Access and take assessments through a clean, distraction-free environment.
 - **Instant Submissions**: Securely upload and submit answers.
 - **Detailed Analytics**: View scores, correct answers, and personalized performance feedback.
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎨 UI & Design
+## UI & Design
 
 Inspired by the clean, high-contrast aesthetic of **ChatGPT**, the UI features:
 - **Monochrome Palette**: A professional black-and-white theme for maximum focus.
@@ -34,7 +34,7 @@ Inspired by the clean, high-contrast aesthetic of **ChatGPT**, the UI features:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React 18 with TypeScript
 - **Build Tool**: Vite
@@ -45,7 +45,7 @@ Inspired by the clean, high-contrast aesthetic of **ChatGPT**, the UI features:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
@@ -76,7 +76,7 @@ Inspired by the clean, high-contrast aesthetic of **ChatGPT**, the UI features:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 src/
@@ -94,10 +94,10 @@ src/
 
 ---
 
-## 📝 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-Built with ❤️ by [Harsh Pahadia](https://github.com/Harsh-PAHADIA)
+Built with focus by [Harsh Pahadia](https://github.com/Harsh-PAHADIA)
